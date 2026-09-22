@@ -1,6 +1,6 @@
-#Trabalho Prático: O Labirinto dos Processos
+# Trabalho Prático: O Labirinto dos Processos
 
-##Integrantes do Grupo
+## Integrantes do Grupo
 1. João Victor Bertoldo
 2. Giovana Aguiar
 3. Matheus Diniz
